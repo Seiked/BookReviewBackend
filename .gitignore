@@ -1,0 +1,25 @@
+## Ignore build results
+bin/
+obj/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VS Code and VS folders
+.vscode/
+.vs/
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+
+## Logs
+*.log
+
+## Others
+TestResults/
