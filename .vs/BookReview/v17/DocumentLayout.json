@@ -1,0 +1,747 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|solutionrelative:bookreview.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|solutionrelative:bookreview.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.infrastructure\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|solutionrelative:bookreview.infrastructure\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|solutionrelative:bookreview.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|solutionrelative:bookreview.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|solutionrelative:bookreview.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|solutionrelative:bookreview.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\servicescontracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\servicescontracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\servicescontracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\servicescontracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\createreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\servicescontracts\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\servicescontracts\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\updatereviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\updatereviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.infrastructure\\migrations\\20250722080743_booksseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|solutionrelative:bookreview.infrastructure\\migrations\\20250722080743_booksseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.infrastructure\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|solutionrelative:bookreview.infrastructure\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\servicescontracts\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\servicescontracts\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\servicescontracts\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\servicescontracts\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\servicescontracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\servicescontracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|solutionrelative:bookreview.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\entities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\entities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77A622DF-5542-406D-B70F-7205A60B9063}|BookReview.API\\BookReview.API.csproj|solutionrelative:bookreview.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.core\\domain\\entities\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD0A37-CF8B-4752-B80E-7B289A16B3CC}|BookReview.Core\\BookReview.Core.csproj|solutionrelative:bookreview.core\\domain\\entities\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.infrastructure\\migrations\\20250722072901_rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|solutionrelative:bookreview.infrastructure\\migrations\\20250722072901_rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|c:\\users\\sebas\\desktop\\bookreview\\bookreview\\bookreview.infrastructure\\migrations\\20250722030817_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178636BA-9FD3-47D3-B020-A745D97D4879}|BookReview.Infrastructure\\BookReview.Infrastructure.csproj|solutionrelative:bookreview.infrastructure\\migrations\\20250722030817_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Program.cs",
+              "RelativeDocumentMoniker": "BookReview.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Program.cs",
+              "RelativeToolTip": "BookReview.API\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:58:38.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "BookReview.Infrastructure\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "BookReview.Infrastructure\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:27:05.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookReview.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookReview.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA3wB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:26:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BookReview.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BookReview.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:01:00.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\ReviewDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\ReviewDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:33:14.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "BookReview.Core\\Services\\UserService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:45:28.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\BookService.cs",
+              "RelativeToolTip": "BookReview.Core\\Services\\BookService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:50:09.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\CreateReviewDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\CreateReviewDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\CreateReviewDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\CreateReviewDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:12:43.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\BookDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:33:37.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "BookReview.API\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "BookReview.API\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:56:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\UserProfileDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\UserProfileDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\UserProfileDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:28:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:16:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "BookReview.API\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "BookReview.API\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:28:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookReview.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookReview.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:28:33.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\ServicesContracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IBookService.cs",
+              "RelativeToolTip": "BookReview.Core\\ServicesContracts\\IBookService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:38:00.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\ServicesContracts\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IUserService.cs",
+              "RelativeToolTip": "BookReview.Core\\ServicesContracts\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:41:01.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:58:00.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\BookDetailDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\BookDetailDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\BookDetailDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\BookDetailDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:21:20.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\ReviewService.cs",
+              "RelativeToolTip": "BookReview.Core\\Services\\ReviewService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:16:38.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IReviewService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\ServicesContracts\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IReviewService.cs",
+              "RelativeToolTip": "BookReview.Core\\ServicesContracts\\IReviewService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:39:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:25:33.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\UpdateReviewDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\UpdateReviewDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\UpdateReviewDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\UpdateReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:13:19.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:25:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250722080743_BooksSeed.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Migrations\\20250722080743_BooksSeed.cs",
+              "RelativeDocumentMoniker": "BookReview.Infrastructure\\Migrations\\20250722080743_BooksSeed.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Migrations\\20250722080743_BooksSeed.cs",
+              "RelativeToolTip": "BookReview.Infrastructure\\Migrations\\20250722080743_BooksSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:07:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookReview.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookReview.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA1wEwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:09:36.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:32:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:08:01.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IJwtService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\ServicesContracts\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IJwtService.cs",
+              "RelativeToolTip": "BookReview.Core\\ServicesContracts\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:14:28.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250722072901_rename.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Migrations\\20250722072901_rename.cs",
+              "RelativeDocumentMoniker": "BookReview.Infrastructure\\Migrations\\20250722072901_rename.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Migrations\\20250722072901_rename.cs",
+              "RelativeToolTip": "BookReview.Infrastructure\\Migrations\\20250722072901_rename.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:29:01.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IEmailService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\ServicesContracts\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IEmailService.cs",
+              "RelativeToolTip": "BookReview.Core\\ServicesContracts\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:47:36.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\ServicesContracts\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\ServicesContracts\\IAuthService.cs",
+              "RelativeToolTip": "BookReview.Core\\ServicesContracts\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:47:56.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\JwtService.cs",
+              "RelativeToolTip": "BookReview.Core\\Services\\JwtService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:14:17.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\EmailService.cs",
+              "RelativeToolTip": "BookReview.Core\\Services\\EmailService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:48:03.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "BookReview.Core\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:48:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookReview.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookReview.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:29:11.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:18:04.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Entities\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\EmailSettings.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Entities\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T04:08:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BookReview.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.API\\appsettings.json",
+              "RelativeToolTip": "BookReview.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T01:23:26.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\ResetPasswordDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:56:42.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:56:19.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250722030817_Initialize.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Migrations\\20250722030817_Initialize.cs",
+              "RelativeDocumentMoniker": "BookReview.Infrastructure\\Migrations\\20250722030817_Initialize.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Infrastructure\\Migrations\\20250722030817_Initialize.cs",
+              "RelativeToolTip": "BookReview.Infrastructure\\Migrations\\20250722030817_Initialize.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:08:18.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\AuthResponseDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:03:37.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "BookReview.Core\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:33:27.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "BookReview.Core\\Domain\\Entities\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\BookReview\\BookReview\\BookReview.Core\\Domain\\Entities\\JwtSettings.cs",
+              "RelativeToolTip": "BookReview.Core\\Domain\\Entities\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:32:33.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

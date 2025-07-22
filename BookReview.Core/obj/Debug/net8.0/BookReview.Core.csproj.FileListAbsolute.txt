@@ -1,0 +1,13 @@
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.AssemblyInfo.cs
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.sourcelink.json
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\bin\Debug\net8.0\BookReview.Core.deps.json
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\bin\Debug\net8.0\BookReview.Core.dll
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\bin\Debug\net8.0\BookReview.Core.pdb
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.dll
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\refint\BookReview.Core.dll
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\BookReview.Core.pdb
+C:\Users\sebas\Desktop\BookReview\BookReview\BookReview.Core\obj\Debug\net8.0\ref\BookReview.Core.dll
